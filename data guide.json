@@ -82,70 +82,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1TnvIV.jpg",
+      "title": "HARRIS MOD 1",
+        "text_Content": "The Harris Model (HM) is a widely used approach in computer vision that deals with corner detection in images. It was introduced by Chris Harris and Mike Stephens in 1988 and has since become a popular method in detecting corners and keypoints in images. The model is robust to changes in scale, rotation, and illumination and has a low computational cost, making it a widely used approach for various computer vision tasks such as object recognition, image stitching, and camera calibration.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1TnemQ.jpg",
+      "title": "HARRIS MOD 2",
+        "text_Content": "The Harris Model works by detecting areas in an image where there is a rapid change in intensity in both horizontal and vertical directions. The model computes a response function that determines the strength of the corner at each pixel in the image. The Harris Model is based on the idea of eigenvalues and eigenvectors, where the eigenvalues represent the strength of the corner and the eigenvectors represent the direction of the change in intensity.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1TnOkx.jpg",
+      "title": "HARRIS MOD 3",
+        "text_Content": "where M is a 2x2 matrix of partial derivatives of the image, det(M) is the determinant of the matrix, trace(M) is the sum of the diagonal elements, and k is a constant that determines the relative importance of the two terms. The determinant term represents the product of the eigenvalues, which represents the change in intensity in both horizontal and vertical directions. The trace term represents the sum of the eigenvalues, which represents the overall change in intensity.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1TnN7j.jpg",
+      "title": "HARRIS MOD 4",
+        "text_Content": "The Harris Model has several advantages over other corner detection methods, including robustness to changes in scale, rotation, and illumination, low computational cost, and the ability to detect corners in images with low contrast. However, the model is not perfect, and there are several drawbacks that need to be addressed. One of the main limitations of the Harris Model is its sensitivity to noise, which can result in false positive detections. ",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1TngB1.jpg",
+      "title": "HARRIS MOD 5",
+        "text_Content": "To address these limitations, several variations of the Harris Model have been proposed, including the Shi-Tomasi corner detector, the FAST corner detector, and the SURF detector. The Shi-Tomasi corner detector is based on the Harris Model and adds a threshold to limit the number of detections. The FAST corner detector is a faster and more efficient variation of the Harris Model that uses circular patterns to detect corners. ",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1TnSLP.jpg",
+      "title": "HARRIS MOD 6",
+        "text_Content": "The SURF detector is based on the Harris Model and uses a different approach to calculate the response function, resulting in a more robust method for detecting corners and keypoints in images.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/H1Tn4rg.jpg",
+      "title": "HARRIS MOD 7",
+        "text_Content": "In conclusion, the Harris Model is a widely used approach in computer vision that has been widely adopted for various computer vision tasks. The model is robust to changes in scale, rotation, and illumination and has a low computational cost, making it a popular method for detecting corners and keypoints in images.",
+        "text_Content_1": ""
 
 
 
